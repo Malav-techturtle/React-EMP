@@ -29,3 +29,5 @@ This is a React application that integrates with the Reqres API to perform basic
    ```bash
    git clone https://github.com/Malav-techturtle/
    cd my-react-app
+   git clone https://github.com/Malav-techturtle/GITHUB-Res
+   cd GITHUB-Res
