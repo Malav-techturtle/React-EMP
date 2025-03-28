@@ -31,3 +31,5 @@ This is a React application that integrates with the Reqres API to perform basic
    cd my-react-app
    git clone https://github.com/Malav-techturtle/GITHUB-Res
    cd GITHUB-Res
+#### Running url
+https://v0-new-project-nfvnmgesnvd-jgm7as9rh-malav-mahapatras-projects.vercel.app/
